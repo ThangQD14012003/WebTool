@@ -6,7 +6,7 @@
     <footer class="text-center text-lg-start text-white" style="background-color: #1c2331">
         <!-- Section: Social media -->
         <section class="d-flex justify-content-between p-2" style="background-color: #6351ce">
-            <!-- Left -->
+            
             <div class="ms-10">
                 <span>Get connected with us on social networks:</span>
             </div>
